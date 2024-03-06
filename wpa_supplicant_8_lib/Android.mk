@@ -60,7 +60,7 @@ endif
 ########################
 include $(CLEAR_VARS)
 LOCAL_SANITIZE := cfi
-LOCAL_MODULE := lib_driver_cmd_mt66xx
+LOCAL_MODULE := lib_driver_cmd_mediatek
 LOCAL_PROPRIETARY_MODULE := true
 LOCAL_MODULE_OWNER := mtk
 LOCAL_SHARED_LIBRARIES := libc libcutils
